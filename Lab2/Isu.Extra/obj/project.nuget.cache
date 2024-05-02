@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/uKNOFM7ePfrsae7AFU+JmxhB90kj6JDQ3IEe0QLjnzpa3//O6Rowo3Qt1St8NWSeC0Wr+SFMgF0Pdq0D1jGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uarov\\source\\repos\\uarsavv\\Lab2\\Isu.Extra\\Isu.Extra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uarov\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\bin\Debug\net5.0\Backups.Extra.deps.json
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\bin\Debug\net5.0\Backups.Extra.dll
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\bin\Debug\net5.0\ref\Backups.Extra.dll
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\bin\Debug\net5.0\Backups.Extra.pdb
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\bin\Debug\net5.0\Backups.dll
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\bin\Debug\net5.0\Backups.pdb
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\obj\Debug\net5.0\Backups.Extra.csproj.AssemblyReference.cache
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\obj\Debug\net5.0\Backups.Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\obj\Debug\net5.0\Backups.Extra.AssemblyInfoInputs.cache
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\obj\Debug\net5.0\Backups.Extra.AssemblyInfo.cs
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\obj\Debug\net5.0\Backups.Extra.csproj.CoreCompileInputs.cache
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\obj\Debug\net5.0\Backups.Extra.csproj.CopyComplete
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\obj\Debug\net5.0\Backups.Extra.dll
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\obj\Debug\net5.0\ref\Backups.Extra.dll
+C:\Users\uarov\source\repos\uarsavv\Lab5\Backups.Extra\obj\Debug\net5.0\Backups.Extra.pdb

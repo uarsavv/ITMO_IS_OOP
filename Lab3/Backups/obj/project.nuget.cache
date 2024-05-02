@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V8/mdH9IABaPubbERgaPCFuJ9CmbjEL5bF6dPWQZlNxMg1fpQNPoHE5DbaI7czdN5FfMd5zhJ3PCwY3+UFf7hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uarov\\source\\repos\\uarsavv\\Lab3\\Backups\\Backups.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uarov\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

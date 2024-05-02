@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WPD8CYl01Wt20G6j1UksklUfukJ+LAH50wt0juChLArTmeLDpeS5Fjuz3a8vE2/gqjbYdsDRa+UrvCvx1mOceQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uarov\\source\\repos\\uarsavv\\Lab4\\Banks.Console\\Banks.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uarov\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
